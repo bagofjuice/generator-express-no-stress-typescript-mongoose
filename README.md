@@ -1,16 +1,16 @@
 # generator-express-no-stress-typescript-mongoose
 
-![](https://img.shields.io/badge/status-stable-green.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/21e362094c5a4c0da4841fc172cee95d)](https://www.codacy.com/app/cdimascio/generator-express-no-stress-typescript?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cdimascio/generator-express-no-stress-typescript&amp;utm_campaign=Badge_Grade) ![](https://img.shields.io/badge/license-MIT-blue.svg)
+![](https://img.shields.io/badge/status-stable-green.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/21e362094c5a4c0da4841fc172cee95d)](https://www.codacy.com/app/bagofjuice/generator-express-no-stress-typescript-mongoose?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bagofjuice/generator-express-no-stress-typescript-mongoose&amp;utm_campaign=Badge_Grade) ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This project is a Mongoose/Mongo variant of [generator-express-no-stress-typescript](https://github.com/cdimascio/generator-express-no-stress-typescript)
 
 Create awesome [Express.js](www.expressjs.com) applications with best of breed tech including [Typescipt](https://www.typescriptlang.org/), structured logging with [Pino](https://github.com/pinojs/pino), API validation and interactive documentation via [Swagger](http://swagger.io/), environment based config with [dotenv](https://github.com/motdotla/dotenv).
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/cdimascio/generator-express-no-stress-typescript/master/assets/express-no-stress-logo-ts.jpg"
+<img src="https://raw.githubusercontent.com/bagofjuice/generator-express-no-stress-typescript-mongoose/master/assets/express-no-stress-logo-ts.jpg"
 </p>
 
-generator-express-no-stress-typescript gets you up and running in seconds. It's ridiculously easy to configure. Heck, just take the defaults. Start it. Write code.
+generator-express-no-stress-typescript-mongoose gets you up and running in seconds. It's ridiculously easy to configure. Heck, just take the defaults. Start it. Write code.
 
 This generator scaffolds a fully functioning REST API server complete with interactive documentation, API validation, structured logging, environment driven config, and more. Simply run the generator and smile :-D
 
@@ -23,7 +23,7 @@ This project is a Typescript variant of [generator-express-no-stress](https://gi
 _Requires Node 6 or greater_
 
 ```shell
-npm install -g yo generator-express-no-stress-typescript
+npm install -g yo generator-express-no-stress-typescript-mongoose
 ```
 
 - See [here](#usage-cli) for use with Yarn and/or Docker
@@ -142,13 +142,13 @@ Simply describe your APIs with Swagger and automagically get for free:
 
 #### Interactive API Doc
 
-![](https://github.com/cdimascio/generator-express-no-stress-typescript/raw/master/assets/interactive-doc1.png)
+![](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose/raw/master/assets/interactive-doc1.png)
 
 #### API Validation!
 
 Oops! I the API caller forgot to pass a `name` field, no stress, we've got this!
 
-![](https://github.com/cdimascio/generator-express-no-stress-typescript/raw/master/assets/api-validation.png)
+![](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose/raw/master/assets/api-validation.png)
 
 ### Structured Logging
 
@@ -156,13 +156,13 @@ Structured logging out of the box!
 
 #### raw
 
-![](https://github.com/cdimascio/generator-express-no-stress-typescript/raw/master/assets/logging-raw.png)
+![](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose/raw/master/assets/logging-raw.png)
 
 #### pretty
 
 Structured logging pretty printed by default - great for dev!
 
-![](https://github.com/cdimascio/generator-express-no-stress-typescript/raw/master/assets/logging-pretty.png)
+![](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose/raw/master/assets/logging-pretty.png)
 
 ### API Validation Example
 
@@ -255,7 +255,7 @@ paths:
 
 #### Invoke a POST request via the Interactive doc
 
-![](https://github.com/cdimascio/generator-express-no-stress-typescript/raw/master/assets/interactive-doc.png)
+![](https://github.com/bagofjuice/generator-express-no-stress-typescript-mongoose/raw/master/assets/interactive-doc.png)
 
 ## License
 
