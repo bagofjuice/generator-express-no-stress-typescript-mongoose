@@ -1,6 +1,6 @@
 # generator-express-no-stress-typescript-mongoose
 
-![](https://img.shields.io/badge/status-stable-green.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/21e362094c5a4c0da4841fc172cee95d)](https://www.codacy.com/app/bagofjuice/generator-express-no-stress-typescript-mongoose?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bagofjuice/generator-express-no-stress-typescript-mongoose&amp;utm_campaign=Badge_Grade) ![](https://img.shields.io/badge/license-MIT-blue.svg)
+![](https://img.shields.io/badge/status-stable-green.svg) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c999c1996b3c41a2b6144617c7ea9421)](https://www.codacy.com/app/bagofjuice/generator-express-no-stress-typescript-mongoose?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bagofjuice/generator-express-no-stress-typescript-mongoose&amp;utm_campaign=Badge_Grade) ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This project is a Mongoose/Mongo variant of [generator-express-no-stress-typescript](https://github.com/cdimascio/generator-express-no-stress-typescript)
 
