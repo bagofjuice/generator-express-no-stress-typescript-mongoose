@@ -24,6 +24,8 @@
     "babel",
     "yarn",
     "swagger",
-    "rest"
+    "rest",
+    "mongo",
+    "mongoose"
   ]
 }
